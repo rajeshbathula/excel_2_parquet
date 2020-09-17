@@ -1,0 +1,4 @@
+FOO=$PATH
+all:
+	@echo $(FOO)
+	@echo $(value FOO)
